@@ -1,5 +1,9 @@
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattumland)](https://github.com/mattumland/github-readme-stats)
 
+- 🔭 I’m currently working on my portfolio site and getting my first dev job.
+- 🌱 I’m currently learning Vue.
+- 💬 Ask me about indie TTRPGS, leftist politics and modular synths.
+- 📫 How to reach me: mattumland@gmail.com.
 <!--
 **mattumland/mattumland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
