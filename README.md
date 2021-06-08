@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my portfolio site and getting my first dev job.
 - 🌱 I’m currently learning Vue.
-- 💬 Ask me about indie TTRPGS and modular synths.
+- 💬 Ask me about indie TTRPGS, modular synths and Blue, my tiny dog.
 - 📫 How to reach me: mattumland@gmail.com.
 <!--
 **mattumland/mattumland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
