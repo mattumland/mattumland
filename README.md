@@ -1,7 +1,7 @@
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattumland)](https://github.com/mattumland/github-readme-stats)
 
 - 🔭 I’m currently working on my portfolio site.
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning Rails.
 - 💬 Ask me about indie TTRPGS, modular synths and Blue, my tiny dog.
 - 📫 How to reach me: mattumland@gmail.com.
 <!--
