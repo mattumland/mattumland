@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my portfolio site.
 - 🌱 I’m currently learning Rails.
 - 💬 Ask me about indie TTRPGS, modular synths and Blue, my tiny dog.
-- 📫 How to reach me: mattumland.dev.
+- 📫 How to reach me: https://www.mattumland.dev/.
 <!--
 **mattumland/mattumland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
