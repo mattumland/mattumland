@@ -1,6 +1,6 @@
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattumland)](https://github.com/mattumland/github-readme-stats)
 
-- 🔭 I’m currently working on sick planet generator website for the Mothership Sci-Fi Horror RPG.
+- 🔭 I’m currently working on sick planet generator app for the Mothership Sci-Fi Horror RPG.
 - 🌱 I’m currently learning styled components and d3.
 - 💬 Ask me about indie TTRPGS, modular synths and Blue, my tiny dog.
 - 📫 How to reach me: https://www.mattumland.dev/.
