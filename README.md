@@ -1,4 +1,4 @@
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattumland)](https://github.com/mattumland/github-readme-stats)
+<!-- [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattumland)](https://github.com/mattumland/github-readme-stats) -->
 
 - 🔭 I’m currently working on fun discord bot for the Troika Science Fantasy RPG.
 - 🌱 I’m currently learning discord.js.
